@@ -197,7 +197,7 @@ D3
 D2
 D1
 D0</text>
-<text x="0.635" y="49.53" size="0.8128" layer="21" ratio="0" distance="215" rot="SR270" align="center">Wojtek @suda Siudzinski   /   v0.4.0</text>
+<text x="0.635" y="49.53" size="0.8128" layer="21" ratio="0" distance="215" rot="SR270" align="center">Wojtek @suda Siudzinski   /   v0.4.1</text>
 <rectangle x1="40.005" y1="27.94" x2="41.275" y2="40.64" layer="21"/>
 <rectangle x1="34.925" y1="58.42" x2="36.195" y2="71.12" layer="21"/>
 <rectangle x1="50.165" y1="58.42" x2="51.435" y2="71.12" layer="21"/>
@@ -213,9 +213,12 @@ D0</text>
 <rectangle x1="24.765" y1="27.94" x2="26.035" y2="38.1" layer="21"/>
 <rectangle x1="27.305" y1="27.94" x2="28.575" y2="38.1" layer="21"/>
 <rectangle x1="29.845" y1="27.94" x2="31.115" y2="38.1" layer="21"/>
-<text x="25.4" y="49.53" size="1.27" layer="21" rot="SR270" align="bottom-center">Antenna
-keep out
-area</text>
+<text x="25.4" y="49.53" size="1.27" layer="21" rot="SR270" align="bottom-center">Antenna keep
+out area</text>
+<wire x1="24.13" y1="57.15" x2="24.13" y2="41.91" width="0.127" layer="21"/>
+<wire x1="24.13" y1="41.91" x2="36.83" y2="41.91" width="0.127" layer="21"/>
+<wire x1="36.83" y1="41.91" x2="36.83" y2="57.15" width="0.127" layer="21"/>
+<wire x1="36.83" y1="57.15" x2="24.13" y2="57.15" width="0.127" layer="21"/>
 </plain>
 <libraries>
 <library name="Spark">
